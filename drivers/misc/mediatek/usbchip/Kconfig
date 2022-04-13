@@ -1,0 +1,3 @@
+config WUSB3801
+	bool "WUSB3801"
+	default n
